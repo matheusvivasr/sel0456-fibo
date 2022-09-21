@@ -1,8 +1,8 @@
 # SEL0456(2022)
 
 ## Índice
-1.[Programa Fibonacci](#fibo)
-    1.[Iteração em Loop](#for)
+1. [Programa Fibonacci](#fibo)
+    1. [Iteração em Loop](#for)
 
 
 ## <a id="fibo"></a> Programa Fibonacci
