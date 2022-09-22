@@ -40,8 +40,11 @@ $git commit -a
 $git push
 ```
 Ao usar `status` verificamos se algum arquivo foi alterado, quais arquivos e uma breve descrição da alteração.
+
 Usando `add` você escolhe quais arquivos vão ser adicionados a essa nova versão a ser salva. O ponto colocado logo depois siginifica que serão todos os arquivos que sofreram alteração.
+
 Ao usar o `commit` foi necessário escrever um comentário sobre as atualizações feitas naquela determinada versão ou `snapshot`.
+
 Ao usar o `push` foi necessária uma autenticação da minha conta do Github.
 
 ### <a id = "branch"></a> Manipulação dos Ramos
