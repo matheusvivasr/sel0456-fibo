@@ -26,7 +26,7 @@ o valor na posição [k] da sequencia de fibonacci é [n]
 
     Foi implementada uma função `fibo()` que funciona analogamente.
 
-## <a id = "git">></a> Git
+## <a id = "git"></a> Git
 
     A ferramenta de versionamento de código
 
