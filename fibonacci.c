@@ -3,6 +3,7 @@
 int fibo(int n);
 int main(){
   int k = -1, r=-1;
+  int f = 0, g = 0, h = 0;
 
     while(k < 0){
         printf("qual a posição de fibonacci você quer?\n(escolha um numero entre 0 e 45)\n");
@@ -20,7 +21,6 @@ int main(){
 
         switch (m){
             case 1:// função iterativa
-                int f = 0, g = 0, h = 0;
                 for(int i = 0; i < k; i++) {
                     if(i == 1)h = 1;
                     else {
