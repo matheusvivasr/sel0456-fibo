@@ -10,25 +10,29 @@
     3. [Fusão dos Ramos](#merge)
 
 
-## <a id = "fibonacci"></a> Programa Fibonacci
 
+## <a id = "fibonacci"></a> Programa Fibonacci
 Objetivo encontrar o valor `n` de posição `k` na sequência de fibonacci retornando a saída:
 
 ```
 o valor na posição [k] da sequencia de fibonacci é [n]
 ```
 
+
 ### <a id = "forLoop"></a> Iteração em Loop
 
 Foi utilizado um `for loop` para tal tarefa.
+
 
 ### <a id = "recursive"></a> Função Recursiva
 
 Foi implementada uma função `fibo()` que funciona analogamente.
 
-## <a id = "git"></a> Git
 
+
+## <a id = "git"></a> Git
 A ferramenta de versionamento de código
+
 
 ###  <a id = "repository"></a> Manipulação de Repositório
 
@@ -46,6 +50,7 @@ Usando `add` você escolhe quais arquivos vão ser adicionados a essa nova vers�
 Ao usar o `commit` foi necessário escrever um comentário sobre as atualizações feitas naquela determinada versão ou `snapshot`.
 
 Ao usar o `push` foi necessária uma autenticação da minha conta do Github.
+
 
 ### <a id = "branch"></a> Manipulação dos Ramos
 
@@ -65,6 +70,7 @@ Sendo necessária essa troca de ramos, basta trocar o nome `main` pelo nome do r
 ```
 $git checkout nova_branch
 ```
+
 
 ### <a id = "merge"></a> Fusão dos Ramos
 Para fundir o ramo `main` com o ramo `nova_branch` você deve conferir se está no ramo `main` e então usar o comando merge:
